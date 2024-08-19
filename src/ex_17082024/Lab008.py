@@ -12,7 +12,7 @@ import math
 # - What does the ** operator do in Python, and how is it used?
 '''
 ** operator it works as same as pow() function
-ex. 2 raised to the power 3 = 8 (2**2=8)
+ex. 2 raised to the power 3 = 8 (2**3=8)
 '''
 # - What does the ^ operator do in Python, and in what context is it commonly used?
 '''
