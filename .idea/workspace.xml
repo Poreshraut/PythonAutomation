@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0808da90-e38d-4fe3-b93c-34fbad24ac76" name="Changes" comment="Second commit">
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab008.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +54,11 @@
   "keyToString": {
     "Python.Lab001.executor": "Run",
     "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
