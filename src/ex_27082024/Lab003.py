@@ -35,12 +35,12 @@ def my_decorator2(func):
 @my_decorator2
 def my_function2():
     print("testing has been started....")
-    time.sleep(4)
+    time.sleep(2)
 
 @my_decorator2
 def my_function3():
     print("third function executing....")
-    time.sleep(9)
+    time.sleep(2)
 
 
 
