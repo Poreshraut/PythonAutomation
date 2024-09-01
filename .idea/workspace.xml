@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0808da90-e38d-4fe3-b93c-34fbad24ac76" name="Changes" comment="corrected some values">
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_27082024/Lab003.py" afterDir="false" />
-    </list>
+    <list default="true" id="0808da90-e38d-4fe3-b93c-34fbad24ac76" name="Changes" comment="27th Aug 2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725042273080</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="27th Aug 2024">
+      <option name="closed" value="true" />
+      <created>1725208677644</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725208677644</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +147,7 @@
     <MESSAGE value="Second commit" />
     <MESSAGE value="Adding learnings of 17th aug 2024 with all task completed" />
     <MESSAGE value="corrected some values" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrected some values" />
+    <MESSAGE value="27th Aug 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="27th Aug 2024" />
   </component>
 </project>
