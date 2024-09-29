@@ -1,7 +1,4 @@
 # We can do chaining of the decorators
-from wsgiref.util import request_uri
-
-from src.ex_27082024.Lab002 import my_function1
 
 
 def my_decorator1(func):
